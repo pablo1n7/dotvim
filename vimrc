@@ -3,3 +3,4 @@ call pathogen#helptags()
 set number
 set hidden
 syntax on
+color dracula
